@@ -1,0 +1,5 @@
+const http =require('http')
+const requestHandled = require('./routes')
+const routes = require('./routes')
+const server = http.createServer(requestHandled)
+server.listen(3000)

@@ -1,0 +1,12 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Node Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start": "node app.js"
+  },
+  "author": "BigWalid",
+  "license": "ISC"
+}
